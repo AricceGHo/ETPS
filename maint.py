@@ -1,11 +1,9 @@
 
 import sys
 import os
-from PyQt5 import QtWidgets
-from PyQt5.QtWidgets import *
+from PyQt5 import QtCore, QtWidgets
 import func
 import ui_test3
-import setupui
 import json
 
 
